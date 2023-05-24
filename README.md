@@ -17,4 +17,8 @@ Enthusiastic and detail-oriented individual with a passion for data analytics, d
   <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title = "MySQL" width="40" height="40"/>&nbsp;
 <div>
 
+ ## Contact Me
+ - LinkedIn: www.linkedin.com/in/eamonnnemeh
+ - E-mail: eamonn_95@outlook.com
+ 
 NOTE: I have just opened a GitHub account, please be patient with while I upload relevant projects! 24/05/2023
