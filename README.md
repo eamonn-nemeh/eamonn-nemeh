@@ -11,10 +11,11 @@ Enthusiastic and detail-oriented individual with a passion for data analytics, d
 ## Tech used
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Py" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title = "Selenium" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title = "MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Py" width="40" height="40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title = "Selenium" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title = "Pandas" width="40" height="40"/>&nbsp;
 <div>
 
  ## Contact Me
