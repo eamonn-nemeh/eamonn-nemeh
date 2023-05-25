@@ -16,6 +16,7 @@ Enthusiastic and detail-oriented individual with a passion for data analytics, d
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Py" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title = "Selenium" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title = "Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title = "NumPy" width="40" height="40"/>&nbsp;
 <div>
 
  ## Contact Me
